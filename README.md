@@ -24,6 +24,5 @@
 
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=madhav-soni&theme=aura" alt="madhav-soni" /></p>
 
-<h3 align="left">✍️ Random Dev Quote</h3>
-
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
