@@ -8,15 +8,26 @@
 - 📫 How to reach me **MadhavAO321F@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/madhav-soni-05351234b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-soni" height="35" width="35" /></a>&nbsp;
-<a href="https://leetcode.com/u/MadhavSoni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhavsoni" height="35" width="35" /></a>&nbsp;
-<a href="https://www.geeksforgeeks.org/user/madhavasoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="madhavasoni" height="35" width="35" /></a>&nbsp;
-<a href="https://www.kaggle.com/madhavsoni2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="madhavsoni2004" height="35" width="35" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/madhav-soni-05351234b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/MadhavSoni/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.geeksforgeeks.org/user/madhavasoni" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="35"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.kaggle.com/madhavsoni2004" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" width="35"/>
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/>&nbsp;&nbsp;
